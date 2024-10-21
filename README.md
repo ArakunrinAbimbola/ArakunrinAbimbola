@@ -1,4 +1,4 @@
-## Hello!👋 IName: Onifade Adebayo, Abimbola Location: Ile-Ife, Osun State Experience Level: Mid-level/Intern
+## Hello!👋 Name: Onifade Adebayo, Abimbola Location: Ile-Ife, Osun State Experience Level: Mid-level/Intern
 <!--
 **About: I am a passionate product designer specializing in creating intuitive, user-centered designs that solve real-world problems. With a background in UI/UX, I’m committed to designing products that not only look beautiful but are also easy to use and accessible for all.
 Skills & Expertise:
