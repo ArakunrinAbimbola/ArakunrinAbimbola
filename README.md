@@ -1,16 +1,18 @@
-## Hi there 👋
-
+## Hello!👋 IName: Onifade Adebayo, Abimbola Location: Ile-Ife, Osun State Experience Level: Mid-level/Intern
 <!--
-**ArakunrinAbimbola/ArakunrinAbimbola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About: I am a passionate product designer specializing in creating intuitive, user-centered designs that solve real-world problems. With a background in UI/UX, I’m committed to designing products that not only look beautiful but are also easy to use and accessible for all.
+Skills & Expertise:
+Product Design
+User research and testing
+Collaboration and Commuication
+Visual Design
 
-Here are some ideas to get you started:
+Tools I Use:
+Design Tools: Figma, Adobe XD, Photoshop, Adobe Illustrator
+Prototyping Tools: Figma, Framer
+Collaboration Tools: Notion, Slack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Contact:
+Email: onifadeadebayoabimbola@gamil.com
+LinkedIn: https://www.linkedin.com/in/adebayoonifade?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 -->
